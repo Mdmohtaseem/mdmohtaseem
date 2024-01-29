@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBt2UX6lpBl9Q2u8OhTsAxAzY7AL6fWsHuZQ&usqp=CAU)
 <h1 align="center">Hi 👋, I'm MD MOHTASEEM</h1>
 <h3 align="center">Technology is a passion of mine and I enjoy nothing more than learning the trends that technology is taking in order to work more efficiently and see progress and success</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
